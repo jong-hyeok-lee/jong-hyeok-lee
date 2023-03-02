@@ -1,5 +1,5 @@
 ### Hi 👋
-세종대학교 지능기전공학부 무인이동체학과 20학번
+세종대학교 지능기전공학부 무인이동체학과 20학번 이종혁
 <!--
 **jong-hyeok-lee/jong-hyeok-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
